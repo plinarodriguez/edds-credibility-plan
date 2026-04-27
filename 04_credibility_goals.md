@@ -1,4 +1,5 @@
 # Verification
+Verification ensures that the computational model is solved correctly by confirming proper implementation of the governing equations.
 ## Code
 ### Software Quality Assurance(SQA)
 - Very little or no SQA procedures were specified or followed;
@@ -29,6 +30,7 @@
 - Key inputs and outputs were verified by reproducing simulations as part of an external peer review.
 
 # Validation 
+Validation assesses how well the computational model represents physical reality by comparing model predictions to physical experiments or observed data.
 ## Computational Model 
 ### Model Form 
 - Influence of model form assumptions was not explored;

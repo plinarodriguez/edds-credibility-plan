@@ -1,16 +1,16 @@
 # Risk Assessment
 
-## Model Influence
+### Model Influence
 
 The model provides insight into thermal behavior but is not the sole basis for decision-making.
 
-Model influence is considered: **Moderate**
+Model influence is considered: `Moderate`
 
-## Decision Consequence
+### Decision Consequence
 
 The consequences of incorrect predictions in this context are limited to research conclusions and methodological development.
 
-Decision consequence is considered: **Low to Moderate**
+Decision consequence is considered: `Low to Moderate`
 
 ## Overall Risk
 
